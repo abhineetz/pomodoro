@@ -15,4 +15,4 @@ alias pomodoro='/c/Users/abhin/repos/pomodoro/cli/pomodoro.sh'
 
 * Run pomodoro
 
-![pomodoro alias](https://github.com/abhineetz/pomodoro/blob/master/cli/resources/images/pomodoro-run.png)
+![Run Pomodoro](https://github.com/abhineetz/pomodoro/blob/master/cli/resources/images/pomodoro-run.png)
