@@ -6,4 +6,4 @@ Pomodoro is a productivity technique where the intention is to work for short du
 
 #### How to run pomodoro
 
-![pomodoro alias](C:\Users\abhin\repos\pomodoro\cli\resources\images\pomodoro-alias.png)
+![pomodoro alias](resources\images\pomodoro-alias.png)
